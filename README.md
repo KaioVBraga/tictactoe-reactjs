@@ -1,5 +1,5 @@
 # tictactoe-reactjs
-Basicamente é o jogo da velha do ReactJS, pretendo fazer alterações futuras e transformá-lo em um Xadrez Multiplayer com acesso server em NodeJS
+Basicamente é o jogo da velha do ReactJS
 
 
 É necessário ter nodejs e npm instalados.
